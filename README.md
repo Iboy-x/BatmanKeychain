@@ -10,7 +10,7 @@ Wanted to save Gotham and proove your friends that you are Batman ? This Keychai
 ![PCB](https://github.com/user-attachments/assets/cdd75399-6e39-4111-8885-ed3b89f5a535)
 
 ## 3D view
-![PCB](https://github.com/user-attachments/assets/06a1d1db-d379-42a9-9dd1-047c3519f783)
+![3D view](https://github.com/user-attachments/assets/ad397a9c-098f-4074-95d7-a41de080d555)
 
 
 ## Features
